@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+img{
+    width: 200px;
+}
+
+h3 {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 2.4rem;
+}
+
+.footer {
+    margin-top: 3rem;
+    text-align: center;
+}
